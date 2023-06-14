@@ -1,0 +1,7 @@
+httpx~=0.24.0
+motor~=3.1.2
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
+pymongo~=4.3.3
+pytz~=2023.3
+lxml~=4.9.2

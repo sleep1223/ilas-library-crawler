@@ -1,0 +1,23 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "sleep1223", email = "sleep1223@outlook.com"},
+]
+dependencies = [
+    "httpx~=0.24.0",
+    "motor~=3.1.2",
+    "bs4~=0.0.1",
+    "beautifulsoup4~=4.12.2",
+    "pymongo~=4.3.3",
+    "pytz~=2023.3",
+    "lxml~=4.9.2",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
